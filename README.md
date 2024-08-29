@@ -1,4 +1,8 @@
 <h2 align="center">Hi 👋, I'm Dinh Chien</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam"/>
+</p>
 <h3 align="center">A developer from Vietnam 🇻🇳</h3>
 
 <br />
@@ -28,6 +32,8 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
   <!-- JavaScript -->
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <!-- MySQL -->
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL"/>
 </div>
 
 <br /><br />
