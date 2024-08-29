@@ -7,9 +7,6 @@
  📫 How to reach me:
 
 <p align="center">
-  <a href="https://github.com/dchienn" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
   <a href="mailto:chienle05122003@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
