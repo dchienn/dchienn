@@ -3,17 +3,6 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam"/>
 </p>
-<h3 align="center">A developer from Vietnam 🇻🇳</h3>
-
-<br />
-
-<h3 align="center">📫 How to reach me:</h3>
-<p align="center">
-  <a href="mailto:chienle05122003@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
-
 <br />
 
 <h2 align="center">🚀 My Technical Skills</h2>
